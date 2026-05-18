@@ -44,7 +44,7 @@ Typical project workflow:
 
 Common tools used in this lab:
 
-- ChatGPT / AI planning assistants
+- ChatGPT and Claude for planning, specification writing, review, and reasoning
 - Coding agents such as Cursor, Windsurf, Claude Code, or Codex-style tools
 - Git and GitHub
 - TypeScript
